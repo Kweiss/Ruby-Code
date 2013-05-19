@@ -32,5 +32,5 @@ while remaining_guesses >= 1
 	end
 end
 
-# The computer whoops the user's butt
+# The default is the computer wins
 puts "The number was #{computers_choice} - better luck next time!"
