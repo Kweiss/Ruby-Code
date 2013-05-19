@@ -59,7 +59,7 @@ puts veggies.last
 veggies.push "Onions"
 puts veggies.last, "\n"
 
-some_array = %w[a b c d e f g]
+some_array = %w(a b c d e f g) # short syntax for array deifnition - %w()
 puts "some_array: #{some_array.join(", ")}"
 puts some_array[-3, 2].join(", "), "\n"
 # The reason this gives us "e, f", is because: while -3 tells Ruby where to start looking in the array
@@ -83,9 +83,7 @@ puts a_combi.assoc("red").join(", ")
 # element in the array means they are not found. And so, nil is returned.
 # puts a_combi.assoc(2).join(", ")
 # puts a_combi.assoc("blue").join(", ")
-# puts a_combi.assoc("b").join(", ")
-
-puts
+# puts a_combi.assoc("b").join(", "), "\n"
 
 # Here's some interesting stuff - regarding using %w to create an array:
 a1 = %w[red green blue]
@@ -99,10 +97,8 @@ puts a_combi.assoc("a").join(", ")
 puts a_combi.assoc("red").join(", ")
 # %w does NOT make [1 2 3] into [1, 2, 3]...
 # it DOES, however, make ["1", "2", "3"] - testing it:
-puts a_combi.assoc("1").join(", ")
+puts a_combi.assoc("1").join(", "), "\n"
 # And now it is found - huzzah!  No nil.
-
-puts
 
 # Playing around with multiple arrays that start with a given element:
 a1 = %w[orange banana cactus]
@@ -110,18 +106,14 @@ a2 = %w[leemur hippo kitten]
 a3 = %w[orange roflsaurus cheeseburger]
 a_combi = [a1, a2, a3]
 puts a_combi.join(", ")
-puts a_combi.assoc("orange").join(", ")
+puts a_combi.assoc("orange").join(", "), "\n"
 # The array 'a1' is returned, as it is the first array (found) that starts with the given element (orange).
 
-puts
-
-# Using the previous example (lines 126-133):
+# Using the previous example (lines 126-133): testing to ensure we are infact returning a1
 puts a_combi.assoc("orange") == a1
 # We see that the array is returned, as the above returns true. However...
-puts a_combi.assoc("orange").join(", ") == a1
-# ...this one returns false - note the usage of .join.
-
-puts
+puts a_combi.assoc("orange").join(", ") == a1, "\n"
+# ...this one returns false - note the usage of .join. which adds the comma.
 
 # .collect - essentially an each-do for modifying all elements in an array:
 a1 = %w[a d ez]
