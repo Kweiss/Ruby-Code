@@ -1,0 +1,31 @@
+puts - Method to display text, adds a line break at the end.
+# - a comment indicator
++ - adds stuff
+- - subtracts stuff
+/ - divides stuff
+% - modulo that checks for positve, negative, odd or even based on the % #, where # is the number of modulo
+* - multpilies stuff
+< - less than
+> - greater than
+<= - less than or equal
+>= - greater than or equal
+!= - not equal
+== - Checks to see if the two are equal
+strings - a type of object
+integers - type of object
+%s - used in a put statement to call out where a string object fills in:  put "Hello %s", % word_string_object
+%d - used in a put statement to cal lout where an integer object fills in:  put "Hello %s", % word_number_object
+#{variable_name} - allows me to put variables inline my put statements.
+print - prints a statement but without a line break at the end.
+% [x,x,x] - allows me to assign values to an array object. foo = "%s, %s, %s"       put foo % [1, 2, 3]
+<<SOME_TEXT - this indicates everything below the callout will be printed. I end the command by putting SOMET_TEXT on its own line.
+gets - get s, gets a string value
+gets.chomp() - gets a string value but cuts off the return line.
+require - This "runs another file" basically extending that file functionaliaty.
+include - takes all the methods from another module and includes them in this module... this is module level, not file level.
+p - puts with inspect tag p foo is the same as puts foo.inspect - gives you more detail for debugging
+open("http://ruby-lang.org/en") do |foo| - opens a URL, FTP or URI and puts them into the string foo. there are lots of methods available from the open-uri library.
+ARGV - accepts arguments to be passed to the ruby file
+$0 - This is a global variable name for the ruby file, or script file that was run... puts "file name: #{$0}"
+STDIN.gets.chomp() - the input method when we are passing args
+File.xxx - Allows us to work with files: open, close() - see exercise 15

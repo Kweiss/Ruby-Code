@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subtrac",
+				"substract"
+			],
+			[
+				"sub",
+				"substract"
+			],
+			[
+				"current",
+				"current_line"
+			],
+			[
+				"pr",
+				"print_a_line"
+			],
+			[
+				"amount",
+				"amount_of_crackers"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"amoun",
+				"amount_of_cheese"
+			],
+			[
+				"cheese",
+				"chees_and_crackers"
+			],
+			[
+				"putson",
+				"puts_one"
+			],
+			[
+				"puts",
+				"puts_two_again"
+			],
+			[
+				"puts_",
+				"puts_two"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"fr",
+				"from_file"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"r",
+				"r	attr_reader .."
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"jo",
+				"joke_evaluation"
+			],
+			[
+				"convert",
+				"converted_weight"
+			],
+			[
+				"converted",
+				"converted_height"
+			],
+			[
+				"myh",
+				"my_height"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"cars_",
+				"cars_not_driven"
+			],
+			[
+				"energy",
+				"energyTimeToMax"
+			],
+			[
+				"ener",
+				"energyTimeToMax"
+			],
+			[
+				"en",
+				"energyTimeToMax"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/L2c.sublime-project",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex1.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex2.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex3.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex4.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex5.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex6.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex7.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex8.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex9.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex10.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex11.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex12.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex13.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex14.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex15.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex16.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex17.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex18.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex19.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex20.rb",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/ex15_sample.txt",
+		"/Users/KyleW/Documents/Git/Ruby/L2C/first.rb",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/hunter_bm.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/warrior_prot.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/shaman_resto.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/priest_disc.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/paladin_protadin.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/jps.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/Updates/Rotations/monk_windwalker.lua",
+		"/Users/KyleW/Documents/Eos Group/4.JOE/LM.lic",
+		"/Users/KyleW/Documents/Eos Group/4.SHA/LM.lic"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"puts",
+			"201",
+			"2012"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
