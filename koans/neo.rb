@@ -31,7 +31,7 @@ end
 
 # Standard, generic replacement value.
 # If value19 is given, it is used in place of value for Ruby 1.9.
-def __
+def version
   if RUBY_VERSION < "1.9"
     value
   else
