@@ -117,10 +117,8 @@ puts a_combi.assoc("orange").join(", ") == a1, "\n"
 
 # .collect - essentially an each-do for modifying all elements in an array:
 a1 = %w[a d ez]
-puts a1.collect { |x| x + "cheeseburger" }.join(", ")
+puts a1.collect { |foo| foo + "cheeseburger" }.join(", ")
 puts a1.join(", ")
 # Above, no permanent alterations. Below, permanent alterations:
-puts a1.collect! { |x| x + "cheeseburger" }.join(", ")
-puts a1.join(", ")
-
-puts
+puts a1.collect! { |foo| foo + "cheeseburger" }.join(", ")
+puts a1.join(", "), "\n"
