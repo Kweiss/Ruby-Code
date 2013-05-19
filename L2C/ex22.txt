@@ -18,7 +18,7 @@ integers - type of object
 #{variable_name} - allows me to put variables inline my put statements.
 print - prints a statement but without a line break at the end.
 % [x,x,x] - allows me to assign values to an array object. foo = "%s, %s, %s"       put foo % [1, 2, 3]
-<<SOME_TEXT - this indicates everything below the callout will be printed. I end the command by putting SOMET_TEXT on its own line.
+<<SOME_TEXT - Thhis is a here_doc and it indicates everything below the callout will be printed. I end the command by putting SOMET_TEXT on its own line.
 gets - get s, gets a string value
 gets.chomp() - gets a string value but cuts off the return line.
 require - This "runs another file" basically extending that file functionaliaty.

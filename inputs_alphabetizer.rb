@@ -2,7 +2,7 @@
 
 # Notes for next version:
 # Consider putting in a way to allow users to copy/paste in lists (in a certain)
-	# format) - and allow them to add onto it
+# format) - and allow them to add onto it
 
 # This program takes user inputs, puts them into an array,
 # alphabetizes them, then outputs the alphabetized array.
