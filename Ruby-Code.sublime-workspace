@@ -4,6 +4,94 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"print_last_word"
+			],
+			[
+				"sort",
+				"sort_sentence"
+			],
+			[
+				"print_",
+				"print_first_word"
+			],
+			[
+				"se",
+				"sentence"
+			],
+			[
+				"break",
+				"break_works"
+			],
+			[
+				"stat",
+				"start_point"
+			],
+			[
+				"start",
+				"start_point"
+			],
+			[
+				"St",
+				"start_point"
+			],
+			[
+				"dealer",
+				"dealer_hand"
+			],
+			[
+				"dealr",
+				"dealer_hand"
+			],
+			[
+				"daler",
+				"dealer_card_2"
+			],
+			[
+				"dealer_",
+				"dealer_hand"
+			],
+			[
+				"deal",
+				"dealer_hand"
+			],
+			[
+				"dea",
+				"dealer_hand"
+			],
+			[
+				"play",
+				"player_hand"
+			],
+			[
+				"pl",
+				"player_hand"
+			],
+			[
+				"de",
+				"dealer_hand"
+			],
+			[
+				"player",
+				"player_hand"
+			],
+			[
+				"del",
+				"dealer_card_1"
+			],
+			[
+				"dealer_card",
+				"dealer_card_1"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"runn",
+				"running_score"
+			],
+			[
 				"subtrac",
 				"substract"
 			],
@@ -124,9 +212,58 @@
 	"buffers":
 	[
 		{
+			"file": "L2C/ex24.rb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex25.rb",
+			"settings":
+			{
+				"buffer_size": 989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex26.rb",
+			"settings":
+			{
+				"buffer_size": 2223,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex28.rb",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex29.rb",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex30.rb",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex32.rb",
+			"settings":
+			{
+				"buffer_size": 742,
 				"line_ending": "Unix"
 			}
 		}
@@ -155,6 +292,16 @@
 	},
 	"file_history":
 	[
+		"/Users/KyleW/Documents/Git/Ruby-Code/blackjack.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/guessing_game_inv.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex22.txt",
+		"/Users/KyleW/Documents/Git/Ruby-Code/inputs_alphabetizer.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/guessing_game.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/README.md",
+		"/Users/KyleW/Documents/Git/Ruby-Code/koans/about_asserts.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/koans/neo.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/dice_game2.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/test_arrays.rb",
 		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/L2c.sublime-project",
 		"/Users/KyleW/Documents/Git/Ruby/L2C/ex1.rb",
 		"/Users/KyleW/Documents/Git/Ruby/L2C/ex2.rb",
@@ -225,27 +372,187 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "L2C/ex24.rb",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 945,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								908,
+								908
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "L2C/ex25.rb",
+					"settings":
+					{
+						"buffer_size": 989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "L2C/ex26.rb",
+					"settings":
+					{
+						"buffer_size": 2223,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "L2C/ex28.rb",
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "L2C/ex29.rb",
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "L2C/ex30.rb",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "L2C/ex32.rb",
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -316,6 +623,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 310.0,
+	"side_bar_width": 191.0,
 	"status_bar_visible": true
 }

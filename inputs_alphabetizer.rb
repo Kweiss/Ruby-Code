@@ -1,7 +1,7 @@
 # Version 2.0
 
 # Notes for next version:
-# Consider putting in a way to allow users to copy/paste in lists (in a certain)
+# Consider putting in a way to allow users to copy/paste in lists (in a certain
 # format) - and allow them to add onto it
 
 # This program takes user inputs, puts them into an array,
