@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"increment_amount"
+			],
+			[
+				"any",
+				"any_variable_I_Iterate_through"
+			],
+			[
 				"print",
 				"print_last_word"
 			],
@@ -212,58 +220,34 @@
 	"buffers":
 	[
 		{
-			"file": "L2C/ex24.rb",
-			"settings":
-			{
-				"buffer_size": 945,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "L2C/ex25.rb",
-			"settings":
-			{
-				"buffer_size": 989,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "L2C/ex26.rb",
-			"settings":
-			{
-				"buffer_size": 2223,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "L2C/ex28.rb",
-			"settings":
-			{
-				"buffer_size": 498,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "L2C/ex29.rb",
-			"settings":
-			{
-				"buffer_size": 476,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "L2C/ex30.rb",
-			"settings":
-			{
-				"buffer_size": 466,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "L2C/ex32.rb",
 			"settings":
 			{
-				"buffer_size": 742,
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inputs_alphabetizer.rb",
+			"settings":
+			{
+				"buffer_size": 1339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "L2C/ex33.rb",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Adobe CS6 and Acrobat XI Activation Kit 1.0/CS6.nfo",
+			"settings":
+			{
+				"buffer_size": 5340,
 				"line_ending": "Unix"
 			}
 		}
@@ -292,6 +276,12 @@
 	},
 	"file_history":
 	[
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex30.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex29.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex28.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex26.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex25.rb",
+		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex24.rb",
 		"/Users/KyleW/Documents/Git/Ruby-Code/blackjack.rb",
 		"/Users/KyleW/Documents/Git/Ruby-Code/guessing_game_inv.rb",
 		"/Users/KyleW/Documents/Git/Ruby-Code/L2C/ex22.txt",
@@ -351,6 +341,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"i",
 			"script",
 			"puts",
 			"201",
@@ -372,23 +363,23 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "L2C/ex24.rb",
+					"file": "L2C/ex32.rb",
 					"settings":
 					{
-						"buffer_size": 945,
+						"buffer_size": 746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								908,
-								908
+								567,
+								552
 							]
 						],
 						"settings":
@@ -403,18 +394,45 @@
 				},
 				{
 					"buffer": 1,
-					"file": "L2C/ex25.rb",
+					"file": "inputs_alphabetizer.rb",
 					"settings":
 					{
-						"buffer_size": 989,
+						"buffer_size": 1339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								720,
-								720
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 59.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "L2C/ex33.rb",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
 							]
 						],
 						"settings":
@@ -429,133 +447,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "L2C/ex26.rb",
-					"settings":
-					{
-						"buffer_size": 2223,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								394,
-								394
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 547.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 3,
-					"file": "L2C/ex28.rb",
+					"file": "/Volumes/Adobe CS6 and Acrobat XI Activation Kit 1.0/CS6.nfo",
 					"settings":
 					{
-						"buffer_size": 498,
+						"buffer_size": 5340,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								440,
-								440
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "L2C/ex29.rb",
-					"settings":
-					{
-						"buffer_size": 476,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								476,
-								476
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "L2C/ex30.rb",
-					"settings":
-					{
-						"buffer_size": 466,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								372,
-								372
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "L2C/ex32.rb",
-					"settings":
-					{
-						"buffer_size": 742,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								647,
-								647
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 393.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
